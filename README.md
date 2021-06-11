@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @parthmistri
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP language.
-- 📫 parthmistri911@gmail.com
+
 
 <!---
 parthmistri/parthmistri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
